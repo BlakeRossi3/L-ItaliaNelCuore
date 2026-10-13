@@ -1,0 +1,11 @@
+node_modules
+/.svelte-kit
+/build
+/.vercel
+/.netlify
+/preview-build
+/preview-page
+.DS_Store
+.env
+.env.*
+!.env.example

@@ -1,0 +1,22 @@
+{
+	"name": "italian-group-site",
+	"version": "0.1.0",
+	"private": true,
+	"type": "module",
+	"scripts": {
+		"dev": "vite dev",
+		"build": "vite build",
+		"preview": "vite preview",
+		"build:preview-page": "node scripts/make-preview-page.js"
+	},
+	"devDependencies": {
+		"@fontsource-variable/inter-tight": "^5.3.0",
+		"@fontsource/allison": "^5.3.0",
+		"@sveltejs/adapter-auto": "^7.0.0",
+		"@sveltejs/adapter-static": "^3.0.10",
+		"@sveltejs/kit": "~2.70.3",
+		"@sveltejs/vite-plugin-svelte": "^6.0.0",
+		"svelte": "^5.40.0",
+		"vite": "^7.0.0"
+	}
+}
