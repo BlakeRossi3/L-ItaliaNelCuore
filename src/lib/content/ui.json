@@ -1,0 +1,163 @@
+{
+	"skip": {
+		"es": "Saltar al contenido",
+		"it": "Vai al contenuto",
+		"en": "Skip to content"
+	},
+	"nav": {
+		"home": {
+			"es": "Inicio",
+			"it": "Home",
+			"en": "Home"
+		},
+		"about": {
+			"es": "Quiénes somos",
+			"it": "Chi siamo",
+			"en": "About us"
+		},
+		"candidates": {
+			"es": "Candidatos",
+			"it": "Candidati",
+			"en": "Candidates"
+		},
+		"program": {
+			"es": "Programa",
+			"it": "Programma",
+			"en": "Program"
+		},
+		"record": {
+			"es": "Lo que hicimos",
+			"it": "Cosa abbiamo fatto",
+			"en": "Our record"
+		},
+		"vote": {
+			"es": "Cómo votar",
+			"it": "Come votare",
+			"en": "How to vote"
+		}
+	},
+	"menu": {
+		"es": "Menú",
+		"it": "Menu",
+		"en": "Menu"
+	},
+	"closeMenu": {
+		"es": "Cerrar menú",
+		"it": "Chiudi menu",
+		"en": "Close menu"
+	},
+	"language": {
+		"es": "Idioma",
+		"it": "Lingua",
+		"en": "Language"
+	},
+	"listName": "L’Italia nel cuore",
+	"listWith": "Con Mariniello",
+	"movement": "Com.It.Es. Movimento Messico",
+	"election": {
+		"es": "Elecciones Com.It.Es. México 2026–2031",
+		"it": "Elezioni Com.It.Es. Messico 2026–2031",
+		"en": "Com.It.Es. Mexico elections 2026–2031"
+	},
+	"logoAlt": {
+		"es": "Logotipo de Com.It.Es. Movimento Messico: L’Italia nel cuore, con Mariniello",
+		"it": "Logo di Com.It.Es. Movimento Messico: L’Italia nel cuore, con Mariniello",
+		"en": "Com.It.Es. Movimento Messico logo: L’Italia nel cuore, with Mariniello"
+	},
+	"signatureAlt": {
+		"es": "Firma de Antonio Mariniello",
+		"it": "Firma di Antonio Mariniello",
+		"en": "Antonio Mariniello’s signature"
+	},
+	"candidate": {
+		"allCandidates": {
+			"es": "Todos los candidatos",
+			"it": "Tutti i candidati",
+			"en": "All candidates"
+		},
+		"backToAll": {
+			"es": "Volver a todos los candidatos",
+			"it": "Torna a tutti i candidati",
+			"en": "Back to all candidates"
+		},
+		"previous": {
+			"es": "Anterior",
+			"it": "Precedente",
+			"en": "Previous"
+		},
+		"next": {
+			"es": "Siguiente",
+			"it": "Successivo",
+			"en": "Next"
+		},
+		"about": {
+			"es": "Biografía",
+			"it": "Biografia",
+			"en": "Biography"
+		},
+		"portrait": {
+			"es": "Retrato de",
+			"it": "Ritratto di",
+			"en": "Portrait of"
+		},
+		"gridTitle": {
+			"es": "Candidatos",
+			"it": "Candidati",
+			"en": "Candidates"
+		},
+		"more": {
+			"es": "Más candidatos",
+			"it": "Altri candidati",
+			"en": "More candidates"
+		},
+		"goToBio": {
+			"es": "Ver biografía",
+			"it": "Vai alla biografia",
+			"en": "Read biography"
+		}
+	},
+	"footer": {
+		"tagline": {
+			"es": "Lista “Con Mariniello – L’Italia nel cuore” para las elecciones del Com.It.Es. México 2026–2031.",
+			"it": "Lista “Con Mariniello – L’Italia nel cuore” per le elezioni del Com.It.Es. Messico 2026–2031.",
+			"en": "The “Con Mariniello – L’Italia nel cuore” list for the Com.It.Es. Mexico 2026–2031 elections."
+		},
+		"official": {
+			"es": "Información oficial",
+			"it": "Informazioni ufficiali",
+			"en": "Official information"
+		},
+		"embassyPage": {
+			"es": "Elecciones Com.It.Es. 2026 – Embajada de Italia en México",
+			"it": "Elezioni Com.It.Es. 2026 – Ambasciata d’Italia in Messico",
+			"en": "Com.It.Es. 2026 elections – Embassy of Italy in Mexico"
+		},
+		"pages": {
+			"es": "Páginas",
+			"it": "Pagine",
+			"en": "Pages"
+		}
+	},
+	"notFound": {
+		"title": {
+			"es": "Página no encontrada",
+			"it": "Pagina non trovata",
+			"en": "Page not found"
+		},
+		"text": {
+			"es": "Esta página no existe. Revisa la dirección o vuelve al inicio.",
+			"it": "Questa pagina non esiste. Controlla l’indirizzo o torna alla home.",
+			"en": "This page doesn’t exist. Check the address, or go back to the home page."
+		},
+		"home": {
+			"es": "Ir al inicio",
+			"it": "Vai alla home",
+			"en": "Go to the home page"
+		}
+	},
+	"mainNav": {
+		"es": "Principal",
+		"it": "Principale",
+		"en": "Main"
+	}
+}

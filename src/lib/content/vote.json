@@ -1,0 +1,166 @@
+{
+	"title": {
+		"es": "Cómo votar",
+		"it": "Come votare",
+		"en": "How to vote"
+	},
+	"lede": {
+		"es": "Las elecciones del Com.It.Es. son por correo, y la boleta solo llega a quien la pide. Pídela antes del 4 de noviembre.",
+		"it": "Le elezioni del Com.It.Es. si svolgono per posta, e la scheda arriva solo a chi la chiede. Chiedila entro il 4 novembre.",
+		"en": "The Com.It.Es. election is a postal vote, and ballots only go to people who ask for one. Ask for yours by November 4."
+	},
+	"who": {
+		"title": {
+			"es": "Quién puede votar",
+			"it": "Chi può votare",
+			"en": "Who can vote"
+		},
+		"text": {
+			"es": "Los ciudadanos italianos inscritos en el AIRE que residen desde hace al menos 6 meses en la circunscripción consular de México.",
+			"it": "I cittadini italiani iscritti all’AIRE e residenti da almeno 6 mesi nella circoscrizione consolare del Messico.",
+			"en": "Italian citizens registered with AIRE who have lived in Mexico’s consular district for at least 6 months."
+		}
+	},
+	"steps": [
+		{
+			"title": {
+				"es": "Firma la lista",
+				"it": "Sottoscrivi la lista",
+				"en": "Sign the list"
+			},
+			"when": {
+				"es": "Hasta el 4 de octubre",
+				"it": "Fino al 4 ottobre",
+				"en": "Until October 4"
+			},
+			"status": {
+				"es": "Concluido",
+				"it": "Concluso",
+				"en": "Closed"
+			},
+			"done": true,
+			"text": {
+				"es": "Las firmas para presentar nuestra lista se recogieron en las oficinas consulares de CDMX y en nuestros encuentros. ¡Gracias a todos los que firmaron!",
+				"it": "Le firme per presentare la nostra lista sono state raccolte negli uffici consolari di CDMX e nei nostri incontri. Grazie a tutti quelli che hanno firmato!",
+				"en": "Signatures to put our list on the ballot were collected at the consular offices in CDMX and at our meetings. Thank you to everyone who signed!"
+			}
+		},
+		{
+			"title": {
+				"es": "Pide votar",
+				"it": "Chiedi di votare",
+				"en": "Ask to vote"
+			},
+			"when": {
+				"es": "Hasta el 4 de noviembre",
+				"it": "Entro il 4 novembre",
+				"en": "By November 4"
+			},
+			"status": {
+				"es": "Abierto ahora",
+				"it": "Aperto ora",
+				"en": "Open now"
+			},
+			"done": false,
+			"text": {
+				"es": "Llena el formulario de solicitud y envíalo, junto con una copia de un documento de identidad, a consolare.messico@esteri.it, o entrégalo en persona en el Consulado.",
+				"it": "Compila il modulo di richiesta e invialo, insieme a una copia di un documento d’identità, a consolare.messico@esteri.it, oppure consegnalo di persona al Consolato.",
+				"en": "Fill in the request form and email it, with a copy of an ID document, to consolare.messico@esteri.it, or hand it in at the Consulate."
+			},
+			"email": "consolare.messico@esteri.it",
+			"link": {
+				"label": {
+					"es": "Formulario e información oficial",
+					"it": "Modulo e informazioni ufficiali",
+					"en": "Form and official information"
+				},
+				"href": "https://ambcittadelmessico.esteri.it/it/servizi-consolari-e-visti/servizi-per-il-cittadino-italiano/servizi-elettorali/elezioni-com-it-es-2026/"
+			}
+		},
+		{
+			"title": {
+				"es": "¡Vota!",
+				"it": "Vota!",
+				"en": "Vote!"
+			},
+			"when": {
+				"es": "Del 15 de noviembre al 4 de diciembre",
+				"it": "Dal 15 novembre al 4 dicembre",
+				"en": "November 15 – December 4"
+			},
+			"status": null,
+			"done": false,
+			"text": {
+				"es": "La boleta llega por correo a tu domicilio. Vota por la lista “Con Mariniello – L’Italia nel cuore” y devuélvela por correo o entrega el sobre directamente en la Embajada.",
+				"it": "La scheda arriva per posta al tuo indirizzo. Vota la lista “Con Mariniello – L’Italia nel cuore” e rispediscila per posta oppure consegna il plico direttamente in Ambasciata.",
+				"en": "Your ballot arrives by mail at your home address. Vote for the “Con Mariniello – L’Italia nel cuore” list and send it back by mail, or hand the envelope in at the Embassy."
+			}
+		}
+	],
+	"stepLabel": {
+		"es": "Paso",
+		"it": "Passo",
+		"en": "Step"
+	},
+	"copy": {
+		"es": "Copiar",
+		"it": "Copia",
+		"en": "Copy"
+	},
+	"copied": {
+		"es": "Copiado",
+		"it": "Copiato",
+		"en": "Copied"
+	},
+	"tip": {
+		"title": {
+			"es": "Antes del 4 de noviembre",
+			"it": "Prima del 4 novembre",
+			"en": "Before November 4"
+		},
+		"text": {
+			"es": "Revisa que tu domicilio esté actualizado en el portal Fast It del Consulado: la boleta se envía por correo a esa dirección.",
+			"it": "Controlla che il tuo indirizzo sia aggiornato sul portale Fast It del Consolato: la scheda viene spedita per posta a quell’indirizzo.",
+			"en": "Make sure your address is up to date on the Consulate’s Fast It portal: your ballot is mailed to that address."
+		},
+		"link": {
+			"label": "Fast It",
+			"href": "https://serviziconsolari.esteri.it/"
+		}
+	},
+	"embassy": {
+		"title": {
+			"es": "Embajada de Italia en México",
+			"it": "Ambasciata d’Italia in Messico",
+			"en": "Embassy of Italy in Mexico"
+		},
+		"address": "Paseo de las Palmas 1994, Lomas de Chapultepec, Miguel Hidalgo, 11000 Ciudad de México"
+	},
+	"help": {
+		"title": {
+			"es": "Ayuda a la lista",
+			"it": "Aiuta la lista",
+			"en": "Help the list"
+		},
+		"text": {
+			"es": "Cuéntales a tus familiares y amigos italianos en México que pidan votar antes del 4 de noviembre, y comparte esta página con ellos.",
+			"it": "Di’ ai tuoi familiari e amici italiani in Messico di chiedere di votare entro il 4 novembre, e condividi con loro questa pagina.",
+			"en": "Tell your Italian family and friends in Mexico to ask for their ballot by November 4, and share this page with them."
+		}
+	},
+	"share": {
+		"es": "Compartir esta página",
+		"it": "Condividi questa pagina",
+		"en": "Share this page"
+	},
+	"linkCopied": {
+		"es": "Enlace copiado",
+		"it": "Link copiato",
+		"en": "Link copied"
+	},
+	"metaDescription": {
+		"es": "Cómo votar en las elecciones del Com.It.Es. México: pide votar antes del 4 de noviembre y vota del 15 de noviembre al 4 de diciembre.",
+		"it": "Come votare alle elezioni del Com.It.Es. Messico: chiedi di votare entro il 4 novembre e vota dal 15 novembre al 4 dicembre.",
+		"en": "How to vote in the Com.It.Es. Mexico election: ask for your ballot by November 4 and vote between November 15 and December 4."
+	}
+}

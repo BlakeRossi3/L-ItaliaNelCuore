@@ -1,0 +1,173 @@
+{
+	"metaTitle": {
+		"es": "L’Italia nel cuore – Con Mariniello | Elecciones Com.It.Es. México",
+		"it": "L’Italia nel cuore – Con Mariniello | Elezioni Com.It.Es. Messico",
+		"en": "L’Italia nel cuore – Con Mariniello | Com.It.Es. Mexico elections"
+	},
+	"metaDescription": {
+		"es": "Conoce a los 16 candidatos de la lista “Con Mariniello – L’Italia nel cuore”, nuestro programa y cómo votar en las elecciones del Com.It.Es. México 2026–2031.",
+		"it": "Conosci i 16 candidati della lista “Con Mariniello – L’Italia nel cuore”, il nostro programma e come votare alle elezioni del Com.It.Es. Messico 2026–2031.",
+		"en": "Meet the 16 candidates of the “Con Mariniello – L’Italia nel cuore” list, our program, and how to vote in the Com.It.Es. Mexico 2026–2031 elections."
+	},
+	"heroCtaVote": {
+		"es": "Cómo votar",
+		"it": "Come votare",
+		"en": "How to vote"
+	},
+	"heroCtaTeam": {
+		"es": "Conoce al equipo",
+		"it": "Conosci la squadra",
+		"en": "Meet the team"
+	},
+	"dates": {
+		"title": {
+			"es": "Fechas clave",
+			"it": "Date chiave",
+			"en": "Key dates"
+		},
+		"items": [
+			{
+				"when": {
+					"es": "Hasta el 4 de octubre",
+					"it": "Fino al 4 ottobre",
+					"en": "Until October 4"
+				},
+				"what": {
+					"es": "Firma de la lista",
+					"it": "Firma della lista",
+					"en": "Signing the list"
+				},
+				"status": {
+					"es": "Concluido",
+					"it": "Concluso",
+					"en": "Closed"
+				},
+				"done": true
+			},
+			{
+				"when": {
+					"es": "Hasta el 4 de noviembre",
+					"it": "Entro il 4 novembre",
+					"en": "By November 4"
+				},
+				"what": {
+					"es": "Pide votar en el Consulado",
+					"it": "Chiedi di votare al Consolato",
+					"en": "Ask the Consulate for your ballot"
+				},
+				"status": {
+					"es": "Abierto ahora",
+					"it": "Aperto ora",
+					"en": "Open now"
+				},
+				"done": false
+			},
+			{
+				"when": {
+					"es": "Del 15 de noviembre al 4 de diciembre",
+					"it": "Dal 15 novembre al 4 dicembre",
+					"en": "November 15 – December 4"
+				},
+				"what": {
+					"es": "Vota por correo o en la Embajada",
+					"it": "Vota per posta o in Ambasciata",
+					"en": "Vote by mail or at the Embassy"
+				},
+				"status": null,
+				"done": false
+			}
+		],
+		"details": {
+			"es": "Ver detalles",
+			"it": "Vedi i dettagli",
+			"en": "See details"
+		}
+	},
+	"comites": {
+		"title": {
+			"es": "¿Qué es el Com.It.Es.?",
+			"it": "Che cos’è il Com.It.Es.?",
+			"en": "What is the Com.It.Es.?"
+		},
+		"text": {
+			"es": [
+				"El Comité de los Italianos en el Extranjero (Com.It.Es.) es el órgano electo que representa a la comunidad italiana ante el Consulado y la Embajada. Lo eligen por correo los ciudadanos italianos residentes en México y dura cinco años.",
+				"Es la voz de la comunidad frente a las instituciones: colabora con el Consulado para mejorar los servicios consulares y defender los derechos de los italianos, y promueve iniciativas culturales, sociales, educativas y deportivas que mantienen viva nuestra lengua y nuestra identidad.",
+				"En México, el Com.It.Es. tiene 12 integrantes que trabajan de forma voluntaria y gratuita. Solo votan quienes lo piden a tiempo: tu voto decide quién representará a la comunidad hasta 2031."
+			],
+			"it": [
+				"Il Comitato degli Italiani all’Estero (Com.It.Es.) è l’organo eletto che rappresenta la comunità italiana presso il Consolato e l’Ambasciata. Lo eleggono per posta i cittadini italiani residenti in Messico e resta in carica cinque anni.",
+				"È la voce della comunità davanti alle istituzioni: collabora con il Consolato per migliorare i servizi consolari e tutelare i diritti degli italiani, e promuove iniziative culturali, sociali, educative e sportive che tengono vive la nostra lingua e la nostra identità.",
+				"In Messico il Com.It.Es. ha 12 componenti, che lavorano in modo volontario e gratuito. Vota solo chi ne fa richiesta in tempo: il tuo voto decide chi rappresenterà la comunità fino al 2031."
+			],
+			"en": [
+				"The Committee of Italians Abroad (Com.It.Es.) is the elected body that represents the Italian community before the Consulate and the Embassy. Italian citizens living in Mexico elect it by postal vote, for a five-year term.",
+				"It is the community’s voice before the institutions: it works with the Consulate to improve consular services and protect the rights of Italians, and it promotes cultural, social, educational and sports initiatives that keep our language and identity alive.",
+				"In Mexico the Com.It.Es. has 12 members, who serve as unpaid volunteers. Only people who ask in time get to vote: your vote decides who will represent the community until 2031."
+			]
+		}
+	},
+	"team": {
+		"title": {
+			"es": "El equipo",
+			"it": "La squadra",
+			"en": "The team"
+		},
+		"text": {
+			"es": "16 candidatos de 8 estados de México: académicos, empresarios, docentes, profesionistas y líderes de la comunidad, italianos e italodescendientes.",
+			"it": "16 candidati da 8 stati del Messico: accademici, imprenditori, insegnanti, professionisti e leader della comunità, italiani e italodiscendenti.",
+			"en": "16 candidates from 8 Mexican states: academics, business owners, teachers, professionals and community leaders, both Italians and Italian descendants."
+		},
+		"cta": {
+			"es": "Ver a los 16 candidatos",
+			"it": "Vedi i 16 candidati",
+			"en": "See all 16 candidates"
+		}
+	},
+	"letter": {
+		"title": {
+			"es": "Una carta de Antonio Mariniello",
+			"it": "Una lettera di Antonio Mariniello",
+			"en": "A letter from Antonio Mariniello"
+		},
+		"cta": {
+			"es": "Leer la carta completa",
+			"it": "Leggi la lettera completa",
+			"en": "Read the full letter"
+		}
+	},
+	"record": {
+		"title": {
+			"es": "Cinco años de trabajo",
+			"it": "Cinque anni di lavoro",
+			"en": "Five years of work"
+		},
+		"text": {
+			"es": "Misiones en 17 ciudades de México, eventos culturales y recreativos, y mejoras concretas en los servicios consulares.",
+			"it": "Missioni in 17 città del Messico, eventi culturali e ricreativi e miglioramenti concreti nei servizi consolari.",
+			"en": "Visits to 17 cities across Mexico, cultural and community events, and real improvements to consular services."
+		},
+		"cta": {
+			"es": "Ver lo que hicimos",
+			"it": "Vedi cosa abbiamo fatto",
+			"en": "See our record"
+		}
+	},
+	"program": {
+		"title": {
+			"es": "Nuestro programa 2026–2031",
+			"it": "Il nostro programma 2026–2031",
+			"en": "Our 2026–2031 program"
+		},
+		"text": {
+			"es": "Cinco comisiones de trabajo y cinco proyectos especiales, del Sportello Italia a una Escuela Italiana.",
+			"it": "Cinque commissioni di lavoro e cinque progetti speciali, dallo Sportello Italia a una Scuola Italiana.",
+			"en": "Five working commissions and five special projects, from an Italy help desk to an Italian school."
+		},
+		"cta": {
+			"es": "Leer el programa",
+			"it": "Leggi il programma",
+			"en": "Read the program"
+		}
+	}
+}

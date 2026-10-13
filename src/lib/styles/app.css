@@ -1,0 +1,269 @@
+/* Brand: Com.It.Es. Movimento Messico – "L’Italia nel cuore, con Mariniello".
+   Colors come from the campaign style sheet (JuntaOperativa, "Colores"):
+   charcoal, red, olive, cream, navy, green. Typeface on the style sheet is
+   Anantason; Inter Tight stands in until web font files are available
+   (swap the import in +layout.svelte and --font below).
+   Layout concept: the campaign's own posters – navy and olive fields, heavy
+   tight uppercase headlines, light-blue highlight bars and big step numerals. */
+:root {
+	--navy: #134d7e;
+	--navy-deep: #0e3b62;
+	--olive: #53644f;
+	--olive-deep: #435240;
+	--sage: #8f9785;
+	--red: #cd222b;
+	--green: #038d47;
+	--cream: #fff7ea;
+	--charcoal: #2c2c2a;
+
+	--paper: #f6f4ef;
+	--white: #ffffff;
+	--ink: var(--charcoal);
+	--ink-soft: #595b54;
+	--rule: #ddd9cf;
+	--sky: #a9bedd;
+	--sky-soft: #d9e3f1;
+	--sun: #f7d64a;
+	--on-dark: #ffffff;
+	--on-dark-soft: rgb(255 255 255 / 0.74);
+
+	--font: 'Inter Tight Variable', 'Inter Tight', 'Helvetica Neue', Helvetica, Arial, system-ui, sans-serif;
+	--font-script: 'Allison', 'Brush Script MT', cursive;
+
+	--step--1: 0.875rem;
+	--step-0: 1.0625rem;
+	--step-1: 1.25rem;
+	--step-2: clamp(1.4rem, 2.2vw, 1.7rem);
+	--step-3: clamp(1.9rem, 3.8vw, 2.8rem);
+	--step-4: clamp(2.5rem, 6.4vw, 4.6rem);
+	--step-5: clamp(3rem, 9vw, 7.4rem);
+
+	--gutter: clamp(16px, 4vw, 56px);
+	--max: 1240px;
+	--measure: 66ch;
+	--header-h: 76px;
+
+	color-scheme: light;
+}
+
+*,
+*::before,
+*::after {
+	box-sizing: border-box;
+}
+
+html {
+	-webkit-text-size-adjust: 100%;
+	scroll-padding-top: calc(var(--header-h) + 16px);
+}
+
+body {
+	margin: 0;
+	background: var(--paper);
+	color: var(--ink);
+	font-family: var(--font);
+	font-size: var(--step-0);
+	line-height: 1.6;
+	font-feature-settings: 'ss01' 0;
+}
+
+img {
+	max-width: 100%;
+	display: block;
+}
+
+h1,
+h2,
+h3,
+h4 {
+	margin: 0;
+	line-height: 1.08;
+	text-wrap: balance;
+}
+
+p,
+ul,
+ol,
+figure,
+blockquote,
+dl,
+dd {
+	margin: 0;
+}
+
+a {
+	color: inherit;
+}
+
+:focus-visible {
+	outline: 3px solid var(--red);
+	outline-offset: 3px;
+}
+
+.wrap {
+	width: 100%;
+	max-width: var(--max);
+	margin-inline: auto;
+	padding-inline: var(--gutter);
+}
+
+/* Campaign headline: heavy, tight, uppercase – as on the posters */
+.display {
+	font-weight: 900;
+	text-transform: uppercase;
+	letter-spacing: -0.035em;
+	line-height: 0.9;
+}
+
+.page-title {
+	font-size: var(--step-4);
+	color: var(--navy);
+}
+
+.section-title {
+	font-size: var(--step-3);
+	color: var(--navy);
+}
+
+/* Light-blue bar behind a headline, from the "Cosa puoi fare" posters */
+.bar {
+	background: linear-gradient(transparent 46%, var(--sky) 46%, var(--sky) 94%, transparent 94%);
+	box-decoration-break: clone;
+	-webkit-box-decoration-break: clone;
+	padding-inline: 0.06em;
+}
+
+.lede {
+	font-size: var(--step-2);
+	line-height: 1.38;
+	max-width: 40ch;
+	font-weight: 400;
+}
+
+.prose {
+	display: grid;
+	gap: 1.05em;
+	max-width: var(--measure);
+}
+
+.muted {
+	color: var(--ink-soft);
+}
+
+/* Tracked caps are reserved for roles and the "Con Mariniello" line, as on the cards */
+.caps {
+	text-transform: uppercase;
+	letter-spacing: 0.14em;
+	font-weight: 500;
+	font-size: var(--step--1);
+}
+
+.script {
+	font-family: var(--font-script);
+	font-weight: 400;
+	line-height: 1;
+}
+
+.button {
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	gap: 0.55em;
+	min-height: 48px;
+	padding: 0.75em 1.3em;
+	border: 0;
+	border-radius: 999px;
+	background: var(--navy);
+	color: var(--on-dark);
+	font: inherit;
+	font-weight: 700;
+	line-height: 1.15;
+	text-decoration: none;
+	cursor: pointer;
+	transition:
+		background-color 0.15s ease,
+		color 0.15s ease;
+}
+.button:hover {
+	background: var(--navy-deep);
+}
+.button.red {
+	background: var(--red);
+}
+.button.red:hover {
+	background: #b01b23;
+}
+.button.light {
+	background: var(--white);
+	color: var(--navy);
+}
+.button.light:hover {
+	background: var(--cream);
+}
+.button.ghost {
+	background: transparent;
+	color: inherit;
+	box-shadow: inset 0 0 0 2px currentColor;
+}
+.button.ghost:hover {
+	background: rgb(255 255 255 / 0.12);
+}
+
+.text-link {
+	font-weight: 700;
+	color: var(--navy);
+	text-decoration-thickness: 2px;
+	text-underline-offset: 4px;
+}
+.text-link:hover {
+	color: var(--red);
+}
+
+.visually-hidden {
+	position: absolute;
+	width: 1px;
+	height: 1px;
+	margin: -1px;
+	padding: 0;
+	overflow: hidden;
+	clip: rect(0 0 0 0);
+	white-space: nowrap;
+	border: 0;
+}
+
+/* Antonio's signature, recolored with currentColor */
+.signature {
+	display: block;
+	background: currentColor;
+	-webkit-mask: var(--sig) center / contain no-repeat;
+	mask: var(--sig) center / contain no-repeat;
+	aspect-ratio: 900 / 491;
+}
+
+/* Photo morph between the candidate grid and a candidate's page */
+::view-transition-old(*),
+::view-transition-new(*) {
+	height: 100%;
+	object-fit: cover;
+	animation-duration: 0.36s;
+	animation-timing-function: cubic-bezier(0.2, 0.7, 0.2, 1);
+}
+::view-transition-group(*) {
+	animation-duration: 0.36s;
+	animation-timing-function: cubic-bezier(0.2, 0.7, 0.2, 1);
+}
+
+@media (prefers-reduced-motion: reduce) {
+	*,
+	*::before,
+	*::after {
+		transition-duration: 0.01ms !important;
+		animation-duration: 0.01ms !important;
+		scroll-behavior: auto !important;
+	}
+	::view-transition-group(*),
+	::view-transition-old(*),
+	::view-transition-new(*) {
+		animation: none !important;
+	}
+}

@@ -1,0 +1,164 @@
+{
+	"page": {
+		"metaDescription": {
+			"es": "Lo que hizo el Com.It.Es. “L’Italia nel cuore” en cinco años: misiones en 17 ciudades, eventos culturales y recreativos, y servicios consulares.",
+			"it": "Cosa ha fatto il Com.It.Es. “L’Italia nel cuore” in cinque anni: missioni in 17 città, eventi culturali e ricreativi e servizi consolari.",
+			"en": "What the Com.It.Es. “L’Italia nel cuore” did in five years: visits to 17 cities, cultural and community events, and consular services."
+		},
+		"citiesLabel": {
+			"es": "ciudades visitadas",
+			"it": "città visitate",
+			"en": "cities visited"
+		}
+	},
+	"title": {
+		"it": "Ma cosa ha fatto il Com.It.Es. “L’Italia nel cuore” in questi cinque anni?",
+		"es": "¿Qué hizo el Com.It.Es. “L’Italia nel cuore” en estos 5 años?",
+		"en": "What has the Com.It.Es. “L’Italia nel cuore” done over the past five years?"
+	},
+	"lead": {
+		"it": "Fra le tante, ricordiamo:",
+		"es": "Entre muchas, recordamos:",
+		"en": "To name just a few:"
+	},
+	"missions": {
+		"title": {
+			"it": "Missioni",
+			"es": "Misiones",
+			"en": "Missions"
+		},
+		"note": {
+			"it": "Siamo andati incontro alla comunità in tutto il Messico.",
+			"es": "Fuimos al encuentro de la comunidad en todo México.",
+			"en": "We went out to meet the community all across Mexico."
+		},
+		"places": [
+			"CDMX",
+			"La Venecia",
+			"Chipilo",
+			"Manuel González",
+			"Puebla",
+			"Cancún",
+			"Guadalajara",
+			"Mérida",
+			"Gutiérrez Zamora",
+			"Guanajuato",
+			"Veracruz",
+			"Monterrey",
+			"Oaxaca",
+			"Irapuato",
+			"Puerto Vallarta",
+			"Lerma",
+			"Huatusco"
+		]
+	},
+	"groups": [
+		{
+			"id": "culturali",
+			"title": {
+				"it": "Eventi culturali",
+				"es": "Eventos culturales",
+				"en": "Cultural events"
+			},
+			"items": {
+				"original": "it",
+				"it": [
+					"Mostra fotografica itinerante “Sensazioni d’Italia”",
+					"Mostra pittorica a Puebla",
+					"Presentazione di libri di diritto alla Dante Alighieri",
+					"Convegno sui diritti delle donne",
+					"Festival Cultural Lerma",
+					"Corso di lingua e cultura italiana",
+					"1° Congresso degli Italodiscendenti 2026"
+				],
+				"es": [
+					"Exposición fotográfica itinerante “Sensazioni d’Italia”",
+					"Exposición de pintura en Puebla",
+					"Presentación de libros de derecho en la Dante Alighieri",
+					"Foro sobre los derechos de las mujeres",
+					"Festival Cultural Lerma",
+					"Curso de lengua y cultura italianas",
+					"1.er Congreso de Italodescendientes 2026"
+				],
+				"en": [
+					"“Sensazioni d’Italia” traveling photography exhibition",
+					"Painting exhibition in Puebla",
+					"Law book presentations at the Dante Alighieri",
+					"Conference on women’s rights",
+					"Festival Cultural Lerma",
+					"Italian language and culture course",
+					"1st Congress of Italian Descendants 2026"
+				]
+			}
+		},
+		{
+			"id": "ricreativi",
+			"title": {
+				"it": "Eventi ricreativi",
+				"es": "Eventos recreativos",
+				"en": "Recreational events"
+			},
+			"items": {
+				"original": "it",
+				"it": [
+					"Mercatino di Natale con l’AIA",
+					"Gita a Chipilo 2023",
+					"Festa della Repubblica 2025",
+					"Torneo di padel",
+					"Gita a Chipilo 2026",
+					"Festa della Repubblica 2026"
+				],
+				"es": [
+					"Mercadito navideño con la AIA",
+					"Paseo a Chipilo 2023",
+					"Fiesta de la República 2025",
+					"Torneo de pádel",
+					"Paseo a Chipilo 2026",
+					"Fiesta de la República 2026"
+				],
+				"en": [
+					"Christmas market with the AIA",
+					"Trip to Chipilo 2023",
+					"Festa della Repubblica (Italian Republic Day) 2025",
+					"Padel tournament",
+					"Trip to Chipilo 2026",
+					"Festa della Repubblica (Italian Republic Day) 2026"
+				]
+			}
+		},
+		{
+			"id": "consolari",
+			"title": {
+				"it": "Servizi consolari",
+				"es": "Servicios consulares",
+				"en": "Consular services"
+			},
+			"items": {
+				"original": "it",
+				"it": [
+					"Prenotazione dei passaporti per i pensionati senza passare da Prenot@mi",
+					"Più giornate di apertura degli uffici consolari",
+					"Panchine d’attesa fuori dal consolato",
+					"Assistenza consolare a migliaia di cittadini"
+				],
+				"es": [
+					"Citas de pasaporte para jubilados sin pasar por Prenot@mi",
+					"Más días de atención en las oficinas consulares",
+					"Bancas de espera afuera del Consulado",
+					"Asistencia consular a miles de ciudadanos"
+				],
+				"en": [
+					"Passport appointments for retirees without going through Prenot@mi",
+					"More opening days at the consular offices",
+					"Waiting benches outside the Consulate",
+					"Consular assistance for thousands of citizens"
+				]
+			}
+		}
+	],
+	"continues": {
+		"it": "…e continua.",
+		"es": "…y continúa.",
+		"en": "…and the work goes on."
+	}
+}
