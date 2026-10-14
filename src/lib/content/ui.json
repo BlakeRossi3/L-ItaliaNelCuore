@@ -136,6 +136,21 @@
 			"es": "Páginas",
 			"it": "Pagine",
 			"en": "Pages"
+		},
+		"contacts": {
+			"es": "Contactos",
+			"it": "Contatti",
+			"en": "Contacts"
+		},
+		"email": {
+			"es": "Correo",
+			"it": "Email",
+			"en": "Email"
+		},
+		"whatsapp": {
+			"es": "WhatsApp",
+			"it": "WhatsApp",
+			"en": "WhatsApp"
 		}
 	},
 	"notFound": {

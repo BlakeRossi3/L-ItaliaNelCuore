@@ -130,6 +130,16 @@
 		<div class="foot-info">
 			<p class="foot-heading">{t(ui.footer.official)}</p>
 			<a href={OFFICIAL_ELECTION_PAGE} target="_blank" rel="noopener">{t(ui.footer.embassyPage)}</a>
+
+			<p class="foot-heading foot-contacts">{t(ui.footer.contacts)}</p>
+			<ul>
+				<li>{t(ui.footer.email)}: <a href="mailto:info@italianelcuore.mx">info@italianelcuore.mx</a></li>
+				<li>
+					{t(ui.footer.whatsapp)}:
+					<a href="https://wa.me/525518495738" target="_blank" rel="noopener">+52 55 1849 5738</a>
+				</li>
+			</ul>
+
 			<p class="foot-tagline">{t(ui.footer.tagline)}</p>
 		</div>
 	</div>
@@ -373,6 +383,9 @@
 		display: grid;
 		align-content: start;
 		gap: 0.2rem;
+	}
+	.foot-contacts {
+		margin-top: 1.4rem;
 	}
 	.foot-tagline {
 		margin-top: 1rem;
