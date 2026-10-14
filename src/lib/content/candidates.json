@@ -10,7 +10,7 @@
 		},
 		"quote": {
 			"original": "it",
-			"it": "Accademica di professione e curiosa per vocazione, considero la conoscenza non solo una attivitá intellettuale, ma lo strumento per capire meglio le persone e contribuire a costruire una comunitá migliorie piú giusta, libera, solidaria e umana",
+			"it": "Accademica di professione e curiosa per vocazione, considero la conoscenza non solo una attivitá intellettuale, ma lo strumento per capire meglio le persone e contribuire a costruire una comunitá migliore piú giusta, libera, solidaria e umana",
 			"es": "Académica de profesión y curiosa por vocación, considero el conocimiento no solo una actividad intelectual, sino la herramienta para entender mejor a las personas y contribuir a construir una comunidad mejor, más justa, libre, solidaria y humana.",
 			"en": "An academic by profession and curious by vocation, I see knowledge not just as an intellectual activity but as the tool for understanding people better and helping to build a better community: fairer, freer, more caring and more humane."
 		},
@@ -115,7 +115,7 @@
 		},
 		"quote": {
 			"original": "it",
-			"it": "Considero nell’aiutare la propria comunitá un dovere, credo nel fare la differenza, trasformando il mondo con amore",
+			"it": "Considero aiutare la propria comunitá un dovere, credo nel fare la differenza, trasformando il mondo con amore",
 			"es": "Considero un deber ayudar a la propia comunidad; creo en marcar la diferencia, transformando el mundo con amor.",
 			"en": "I consider helping one’s own community a duty. I believe in making a difference, transforming the world with love."
 		},
@@ -191,20 +191,20 @@
 			"original": "it",
 			"it": [
 				"Cresciuta tra la Svizzera italiana e la provincia di Como, laureata in Lettere, vive a Città del Messico dal 2008.",
-				"In Svizzera ha lavorato come responsabile delle pubblicazioni in italiano per Expo02, evento culturale nazionale, e per la SSA, Società per la tutela dei diritti d’autore (opere teatrali e cinematografiche).",
-				"In Messico ha avviato un’attività di promozione della lettura: organizzava fiere del libro in scuole dell’infanzia ed elementari e proponeva animazioni per bambini e conferenze per i genitori. Ha inoltre tradotto libri per ragazzi dall’italiano allo spagnolo per la casa editrice SM e ha tenuto per 8 anni corsi di letteratura infantile nel programma “Abuelos Lectores” dell’UNAM.",
+				"In Svizzera ha lavorato come responsabile delle traduzioni in italiano per Expo02, evento culturale nazionale, e nel settore comunicazione della SSA, Società di gestione dei diritti d’autore per le opere teatrali e audiovisive. In entrambi gli impieghi si occupava di aggiornare i siti web e di supervisionare la produzione di pubblicazioni cartacee.",
+				"In Messico ha avviato un’attività di promozione della lettura: organizzava fiere del libro in scuole dell’infanzia ed elementari e proponeva animazioni per gli allievi e conferenze per i genitori. Ha inoltre tradotto libri per bambini dall’italiano allo spagnolo per le case editrici SM e Santillana, e ha tenuto per 8 anni corsi di letteratura infantile nel programma “Abuelos Lectores” dell’UNAM.",
 				"Dal 2017 insegna lingua e cultura italiana presso il Liceo Franco-Messicano."
 			],
 			"es": [
 				"Creció entre la Suiza italiana y la provincia de Como, es licenciada en Letras y vive en la Ciudad de México desde 2008.",
-				"En Suiza fue responsable de las publicaciones en italiano de Expo02, evento cultural nacional, y de la SSA, Sociedad para la protección de los derechos de autor (obras teatrales y cinematográficas).",
-				"En México emprendió una labor de promoción de la lectura: organizaba ferias del libro en preescolares y primarias, y ofrecía actividades para niños y conferencias para padres. Además, tradujo libros infantiles y juveniles del italiano al español para la editorial SM e impartió durante 8 años cursos de literatura infantil en el programa “Abuelos Lectores” de la UNAM.",
+				"En Suiza fue responsable de las traducciones al italiano de Expo02, evento cultural nacional, y trabajó en el área de comunicación de la SSA, sociedad de gestión de los derechos de autor de obras teatrales y audiovisuales. En ambos puestos se encargaba de actualizar los sitios web y de supervisar la producción de publicaciones impresas.",
+				"En México emprendió una labor de promoción de la lectura: organizaba ferias del libro en preescolares y primarias, y ofrecía actividades para los alumnos y conferencias para padres. Además, tradujo libros infantiles del italiano al español para las editoriales SM y Santillana, e impartió durante 8 años cursos de literatura infantil en el programa “Abuelos Lectores” de la UNAM.",
 				"Desde 2017 enseña lengua y cultura italianas en el Liceo Franco Mexicano."
 			],
 			"en": [
 				"Raised between Italian-speaking Switzerland and the province of Como, with a degree in Literature, she has lived in Mexico City since 2008.",
-				"In Switzerland she was in charge of Italian-language publications for Expo02, a national cultural event, and for SSA, the Swiss society for authors’ rights (theater and film works).",
-				"In Mexico she started promoting reading: she organized book fairs in preschools and elementary schools, and ran activities for children and talks for parents. She also translated children’s and young adult books from Italian into Spanish for the publisher SM, and for 8 years taught children’s literature courses in UNAM’s “Abuelos Lectores” program.",
+				"In Switzerland she was in charge of Italian translations for Expo02, a national cultural event, and worked in communications at SSA, the society that manages authors’ rights for theater and audiovisual works. In both jobs she kept the websites up to date and oversaw the production of print publications.",
+				"In Mexico she started promoting reading: she organized book fairs in preschools and elementary schools, and ran activities for pupils and talks for parents. She also translated children’s books from Italian into Spanish for the publishers SM and Santillana, and for 8 years taught children’s literature courses in UNAM’s “Abuelos Lectores” program.",
 				"Since 2017 she has taught Italian language and culture at the Liceo Franco Mexicano."
 			]
 		}
@@ -455,8 +455,8 @@
 		},
 		"quote": {
 			"original": "it",
-			"it": "Consigliere Comites e rappresentante dei piemontesi, mi impegno da sempre in attivitá culturali ed educative in favore della nostra comunitá, valorizzando la nostra identitá e rafforzando il senso di unione e di appartenenza tra gli italiani qui in Messico",
-			"es": "Consejera del Com.It.Es. y representante de los piamonteses, siempre me he dedicado a actividades culturales y educativas en favor de nuestra comunidad, valorando nuestra identidad y fortaleciendo el sentido de unión y de pertenencia entre los italianos aquí en México.",
+			"it": "Come consigliere Comites e rappresentante dei piemontesi, mi impegno da sempre in attivitá culturali ed educative in favore della nostra comunitá, valorizzando la nostra identitá e rafforzando il senso di unione e di appartenenza tra gli italiani qui in Messico",
+			"es": "Como consejera del Com.It.Es. y representante de los piamonteses, siempre me he dedicado a actividades culturales y educativas en favor de nuestra comunidad, valorando nuestra identidad y fortaleciendo el sentido de unión y de pertenencia entre los italianos aquí en México.",
 			"en": "As a Com.It.Es. councillor and a representative of the Piedmontese community, I have always been committed to cultural and educational activities for our community, celebrating our identity and strengthening the sense of unity and belonging among Italians here in Mexico."
 		},
 		"bio": {
@@ -492,7 +492,7 @@
 		},
 		"quote": {
 			"original": "it",
-			"it": "Ho un impegno attivo la mia comunitá italiana qui in Messico, agendo da collegamento fra imprenditori, famiglie e professionisti di entrambi i paesi. Ho scelto di far parte del Comites per consolidare questo mio impegno e rafforzare i legami fra questi due Paesi",
+			"it": "Ho un impegno attivo con la mia comunitá italiana qui in Messico, agendo da collegamento fra imprenditori, famiglie e professionisti di entrambi i paesi. Ho scelto di far parte del Comites per consolidare questo mio impegno e rafforzare i legami fra questi due Paesi",
 			"es": "Tengo un compromiso activo con mi comunidad italiana aquí en México, sirviendo de enlace entre empresarios, familias y profesionistas de ambos países. Decidí formar parte del Com.It.Es. para consolidar este compromiso y fortalecer los lazos entre estos dos países.",
 			"en": "I am actively committed to my Italian community here in Mexico, acting as a link between business owners, families and professionals from both countries. I chose to join the Com.It.Es. to build on that commitment and strengthen the ties between our two countries."
 		},
