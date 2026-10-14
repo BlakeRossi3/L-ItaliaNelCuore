@@ -27,7 +27,7 @@ export const candidates = data.map((c) => ({
 /** @param {string} name */
 const surname = (name) => name.match(/(?:(?:De|Di|Del|Della|Da|La|Lo)\s+)?\S+$/)?.[0] ?? name;
 
-// Home page order: the list leader first, then everyone else alphabetically by surname
+// Order shown on the site (home page, Candidates grid, previous/next): the list leader first, then everyone else alphabetically by surname
 const LEADER = 'antonio-mariniello';
 export const teamOrder = [
 	...candidates.filter((c) => c.slug === LEADER),

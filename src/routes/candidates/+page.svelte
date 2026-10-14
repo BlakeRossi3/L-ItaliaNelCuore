@@ -1,7 +1,7 @@
 <script>
 	import { href } from '$lib/link.js';
 	import { t } from '$lib/i18n.svelte.js';
-	import { candidates } from '$lib/candidates.js';
+	import { teamOrder } from '$lib/candidates.js';
 	import ui from '$lib/content/ui.json';
 	import home from '$lib/content/home.json';
 	import CandidatePhoto from '$lib/components/CandidatePhoto.svelte';
@@ -16,7 +16,7 @@
 
 <div class="wrap">
 	<ul class="grid">
-		{#each candidates as c, i}
+		{#each teamOrder as c, i}
 			<li>
 				<a class="tile" href={href(`/candidates/${c.slug}`)}>
 					<CandidatePhoto candidate={c} alt={c.name} class="tile-photo" loading={i < 8 ? 'eager' : 'lazy'} />
