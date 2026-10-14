@@ -1,7 +1,7 @@
 <script>
 	import { href, sectionHref, rememberJump } from '$lib/link.js';
 	import { t, tl } from '$lib/i18n.svelte.js';
-	import { candidates } from '$lib/candidates.js';
+	import { teamOrder } from '$lib/candidates.js';
 	import home from '$lib/content/home.json';
 	import about from '$lib/content/about.json';
 	import program from '$lib/content/program.json';
@@ -91,7 +91,7 @@
 			<a class="button light" href={href('/candidates')}>{t(home.team.cta)}</a>
 		</div>
 		<ul class="team-grid">
-			{#each candidates as c}
+			{#each teamOrder as c}
 				<li>
 					<a href={href(`/candidates/${c.slug}`)} title={c.name}>
 						<CandidatePhoto candidate={c} alt={c.name} />

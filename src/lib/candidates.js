@@ -23,4 +23,17 @@ export const candidates = data.map((c) => ({
 	signature: signatures[`/src/lib/assets/signatures/${c.slug}.png`] ?? null
 }));
 
+// Surname for sorting: the last word, keeping a particle such as "De" (De Gasperin sorts under D)
+/** @param {string} name */
+const surname = (name) => name.match(/(?:(?:De|Di|Del|Della|Da|La|Lo)\s+)?\S+$/)?.[0] ?? name;
+
+// Home page order: the list leader first, then everyone else alphabetically by surname
+const LEADER = 'antonio-mariniello';
+export const teamOrder = [
+	...candidates.filter((c) => c.slug === LEADER),
+	...candidates
+		.filter((c) => c.slug !== LEADER)
+		.sort((a, b) => surname(a.name).localeCompare(surname(b.name), 'it'))
+];
+
 /** @typedef {(typeof candidates)[number]} Candidate */
